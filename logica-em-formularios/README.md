@@ -1,12 +1,8 @@
-\# logica-em-formularios
+# logica-em-formularios
 
 
 
-Atividade Prática - Uso de funções, try ... catch, importação de código,
+Atividade Prática - Uso de funções, try ... catch, importação de código, redirecionamento automático.
 
-redirecionamento automático.
-
-
-
-Regras <a href="regras-atividade.pdf">nesse arquivo</a>.
+### Regras <a href="regras-atividade.pdf">nesse arquivo</a>.
 
